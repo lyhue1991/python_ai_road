@@ -10,5 +10,4 @@ dependencies:
     - pandas
     - thinc
     - jieba
-    - json
     - tensorflow
